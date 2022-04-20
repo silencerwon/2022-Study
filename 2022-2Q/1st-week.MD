@@ -13,4 +13,4 @@
   * https://docs.microsoft.com/ko-kr/sql/relational-databases/track-changes/about-change-data-capture-sql-server?view=sql-server-ver15
 
 
-2. tweeter의 fan-out 아키텍쳐
+2. tweeter의 fan-out 아키텍쳐 (p.12)
